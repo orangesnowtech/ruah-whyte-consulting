@@ -20,12 +20,3 @@ env:
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
     secret: NEXT_PUBLIC_FIREBASE_APP_ID
     availability: [BUILD, RUNTIME]
-  - variable: ZEPTOMAIL_API_KEY
-    secret: ZEPTOMAIL_API_KEY
-    availability: [RUNTIME]
-  - variable: EMAIL_FROM_ADDRESS
-    secret: EMAIL_FROM_ADDRESS
-    availability: [RUNTIME]
-  - variable: EMAIL_TO_ADDRESS
-    secret: EMAIL_TO_ADDRESS
-    availability: [RUNTIME]
