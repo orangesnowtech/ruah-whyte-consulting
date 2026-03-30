@@ -32,7 +32,7 @@
 
 #### .env.local (LIVE — never commit this file)
 ```env
-NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyBUhMpkH9bgHt27afuWoroli_O563dS_bM
+NEXT_PUBLIC_FIREBASE_API_KEY=<set-in-secret-manager>
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=ruah-whyte-consulting.firebaseapp.com
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=ruah-whyte-consulting
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=ruah-whyte-consulting.firebasestorage.app
